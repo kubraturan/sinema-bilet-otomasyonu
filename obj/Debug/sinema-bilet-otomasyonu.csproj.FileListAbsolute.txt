@@ -1,0 +1,43 @@
+c:\users\kübra\documents\visual studio 2015\Projects\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\bin\Debug\sinema-bilet-otomasyonu.exe.config
+c:\users\kübra\documents\visual studio 2015\Projects\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\bin\Debug\sinema-bilet-otomasyonu.exe
+c:\users\kübra\documents\visual studio 2015\Projects\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\bin\Debug\sinema-bilet-otomasyonu.pdb
+c:\users\kübra\documents\visual studio 2015\Projects\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema-bilet-otomasyonu.csprojResolveAssemblyReference.cache
+c:\users\kübra\documents\visual studio 2015\Projects\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema_bilet_otomasyonu.Form1.resources
+c:\users\kübra\documents\visual studio 2015\Projects\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema_bilet_otomasyonu.Properties.Resources.resources
+c:\users\kübra\documents\visual studio 2015\Projects\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema-bilet-otomasyonu.csproj.GenerateResource.Cache
+c:\users\kübra\documents\visual studio 2015\Projects\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema-bilet-otomasyonu.exe
+c:\users\kübra\documents\visual studio 2015\Projects\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema-bilet-otomasyonu.pdb
+C:\Users\dell i5\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\bin\Debug\sinema-bilet-otomasyonu.exe.config
+C:\Users\dell i5\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema-bilet-otomasyonu.exe
+C:\Users\dell i5\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema-bilet-otomasyonu.pdb
+C:\Users\dell i5\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\bin\Debug\sinema-bilet-otomasyonu.exe
+C:\Users\dell i5\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\bin\Debug\sinema-bilet-otomasyonu.pdb
+C:\Users\dell i5\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema-bilet-otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\dell i5\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema_bilet_otomasyonu.Form1.resources
+C:\Users\dell i5\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema_bilet_otomasyonu.Form2.resources
+C:\Users\dell i5\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema_bilet_otomasyonu.Form3.resources
+C:\Users\dell i5\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema_bilet_otomasyonu.Form4.resources
+C:\Users\dell i5\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema_bilet_otomasyonu.Form6.resources
+C:\Users\dell i5\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema_bilet_otomasyonu.Form7.resources
+C:\Users\dell i5\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema_bilet_otomasyonu.Form8.resources
+C:\Users\dell i5\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema_bilet_otomasyonu.Properties.Resources.resources
+C:\Users\dell i5\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema-bilet-otomasyonu.csproj.GenerateResource.Cache
+C:\Users\dell i5\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema_bilet_otomasyonu.Form5.resources
+C:\Users\dell i5\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema_bilet_otomasyonu.Form9.resources
+C:\Users\Kübra\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\bin\Debug\sinema-bilet-otomasyonu.exe.config
+C:\Users\Kübra\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema-bilet-otomasyonu.exe
+C:\Users\Kübra\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema-bilet-otomasyonu.pdb
+C:\Users\Kübra\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\bin\Debug\sinema-bilet-otomasyonu.exe
+C:\Users\Kübra\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\bin\Debug\sinema-bilet-otomasyonu.pdb
+C:\Users\Kübra\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema-bilet-otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Kübra\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema_bilet_otomasyonu.Form1.resources
+C:\Users\Kübra\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema_bilet_otomasyonu.Form2.resources
+C:\Users\Kübra\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema_bilet_otomasyonu.Form3.resources
+C:\Users\Kübra\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema_bilet_otomasyonu.Form4.resources
+C:\Users\Kübra\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema_bilet_otomasyonu.Form5.resources
+C:\Users\Kübra\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema_bilet_otomasyonu.Form6.resources
+C:\Users\Kübra\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema_bilet_otomasyonu.Form7.resources
+C:\Users\Kübra\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema_bilet_otomasyonu.Form8.resources
+C:\Users\Kübra\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema_bilet_otomasyonu.Form9.resources
+C:\Users\Kübra\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema_bilet_otomasyonu.Properties.Resources.resources
+C:\Users\Kübra\Desktop\sinema-bilet-otomasyonu\sinema-bilet-otomasyonu\obj\Debug\sinema-bilet-otomasyonu.csproj.GenerateResource.Cache
